@@ -1,0 +1,3 @@
+﻿  cozulecek.cpp
+cozulecek.obj : error LNK2019: çözümlenmemiş dış sembol "void __cdecl section_q(void)" (?section_q@@YAXXZ) için main işlevinde başvuruldu
+C:\Users\edaca\OneDrive\Masaüstü\c++_yeni\cozulecek\x64\Debug\cozulecek.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
