@@ -1,3 +1,0 @@
-﻿  DefaultConstructor.cpp
-C:\Users\edaca\OneDrive\Masaüstü\c++\DefaultConstructor\DefaultConstructor\DefaultConstructor.cpp(33,9): warning C4930: 'Player hero(void)': prototipli işlev çağrılmadı (değişken bir tanım mı isteniyordu?)
-  DefaultConstructor.vcxproj -> C:\Users\edaca\OneDrive\Masaüstü\c++\DefaultConstructor\x64\Debug\DefaultConstructor.exe
