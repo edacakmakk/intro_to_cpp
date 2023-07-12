@@ -1,8 +1,0 @@
-﻿  ClassApp.cpp
-  Movies.cpp
-  movie.cpp
-  Kod Üretiliyor...
-ClassApp.obj : error LNK2019: çözümlenmemiş dış sembol "void __cdecl add_movie(class Movies &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?add_movie@@YAXAEAVMovies@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@1H@Z) için main işlevinde başvuruldu
-    Tanımlanan ve eşleşme olasılığı olan sembollerle ilgili ipucu:
-      "public: bool __cdecl Movies::add_movie(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?add_movie@Movies@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0H@Z)
-C:\Users\edaca\OneDrive\Masaüstü\c++\ClassApp\x64\Debug\ClassApp.exe : fatal error LNK1120: 1 çözümlenmemiş dışlar
